@@ -1,1 +1,32 @@
-
+<bug_data>    
+    <Telegram_nickname>@LanaLir</Telegram_nickname>
+    <Bug_id>17</Bug_id>
+    <Title>Application installation error</Title>
+    <Severity>Blocker</Severity>
+    <Priority>High</Priority>
+    <environments>
+      <Environment>1) Xiaomi redmi 4x, Android 7.1.2, MIUI Global 11.0.2.Stable</Environment>
+      <Environment>2) LeEco Le 2 X527, Android 6.0.1., EUI 5.8.019S(stable)</Environment>
+      <Environment>3) Samsung Galaxy SM-A510F, Android 7.0, Build Number NRD90M.A510FXXS8CTI8</Environment>
+      <Environment>4) Meizu M6 Note, Android 7.1.2</Environment>
+      <Environment>5) Nexus 6, Android 7.1.1</Environment>
+      <Environment>6) Xiaomi Redmi Note 4, Android 7.0 NRD90M, MIUI Global 11.0.2.0 Stable</Environment>
+      <Environment>7) Honor 8, Android 7.0, EMUI 5.0.4</Environment>
+      <Environment>8) Xiaomi Redmi 4A (MIUI Global 10.2.3 | Stable 10.2.3.0(NCCMIXM)) Android 7.1.2 N2G47H</Environment>
+      <Environment>9) HUAWEI G700-U20, Android v.4.2.1, build number: G700-U20 V100R001C00B123</Environment>
+      <Environment>10) Xiaomi redmi note 4x Android 7.0</Environment>
+      <Environment>11) HUAWEI P9 Lite VNS-L121 Android 7.0</Environment>
+      <Environment>12) Amoi N828 Jelly Bean MR1 Android 4.2</Environment>
+    </environments>
+    <Precondition></Precondition>
+    <StepsToReproduce>
+      <STR>1) download application</STR>
+      <STR>2) click for install</STR>
+    </StepsToReproduce>
+    <AR>An error message appears 'There was a problem parsing the package'</AR>
+    <ER>Installing the app on the phone</ER>
+    <Attachments>
+      <Attachment>https://drive.google.com/file/d/1SAbMY3odM6rXmRWTwbaX0GbHSMHjXlaG/view?usp=drivesdk</Attachment>
+      <Attachment>https://drive.google.com/drive/folders/1J1I2X0GQ1B1kGBPOfgJEP-dQVz_AGcla?usp=sharing</Attachment>
+    </Attachments>
+</bug_data>    
